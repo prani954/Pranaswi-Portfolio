@@ -1,2 +1,3 @@
 **Check out my portfolio website**
-https://pranaswi-s-portfolio.vercel.app/
+
+https://pranaswi-portfolio.vercel.app/
